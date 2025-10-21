@@ -1,2 +1,11 @@
 # Python Environments   
 venv
+
+# Environment variables
+.env
+
+# Pycharm files
+.idea
+
+# Data files
+data
